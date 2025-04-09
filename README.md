@@ -74,5 +74,5 @@ We aim to:
 
 We’re excited to build the future of inclusive learning together!  
 Feel free to **star**, **fork**, or **open issues** if you have ideas or improvements. Let's make education accessible for everyone! 🌟
-
+Mail us here [Mail](aiseekers.info@gmail.com)
 ---
